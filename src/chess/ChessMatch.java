@@ -54,6 +54,6 @@ public class ChessMatch {
 		board.placePiece(new Bishop(board, Color.BLACK), new Position(0, 5));
 		board.placePiece(new Queen(board, Color.BLACK), new Position(0, 4));
 		board.placePiece(new King(board, Color.BLACK), new Position(0, 3));
-	}
+	} 
 
 }
